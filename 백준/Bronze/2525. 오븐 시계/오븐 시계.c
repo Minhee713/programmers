@@ -1,3 +1,7 @@
+/* GPT를 통해 수정한 코드 
+훨씬 깔끔해짐 */ 
+
+
 #include <stdio.h>
 
 int main(void)
